@@ -1,14 +1,11 @@
 
 TITLE: 
-Simple - Fully Responsive Free HTML5 template
+Polycraft Center, Navi Mumbai
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Harshdeep Singh Nanda
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+Website: http://harshdeep.tk
 
 CREDITS:
 
